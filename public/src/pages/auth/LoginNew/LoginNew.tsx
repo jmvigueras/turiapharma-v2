@@ -66,8 +66,8 @@ export const LoginNew: FC = () => {
           {errorText && <div className="error-text">{errorText}</div>}
           <b>Hint</b>: if you are looking for an authentication protected
           endpoint, try using:
-          <a href="https://lagabarra.fortidemoscloud.com/api/products">
-            https://lagabarra.fortidemoscloud.com/api/products
+          <a href="https://turiapharma.fortidemoscloud.com/api/products">
+            https://turiapharma.fortidemoscloud.com/api/products
           </a>
         </div>
         <div className="register-link">
