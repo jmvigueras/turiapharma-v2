@@ -15,7 +15,7 @@ export const AdminLayout: FC = ({ children }) => {
                   alt=""
                   className="img-fluid"
                 />
-                LA GABARRA
+                TURIA PHARMA
               </a>
             </div>
             {children}
